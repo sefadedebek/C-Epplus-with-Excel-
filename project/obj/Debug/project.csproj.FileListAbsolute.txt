@@ -1,0 +1,13 @@
+C:\Users\sefad\source\repos\project\project\bin\Debug\project.exe.config
+C:\Users\sefad\source\repos\project\project\bin\Debug\project.exe
+C:\Users\sefad\source\repos\project\project\bin\Debug\project.pdb
+C:\Users\sefad\source\repos\project\project\bin\Debug\EPPlus.dll
+C:\Users\sefad\source\repos\project\project\bin\Debug\Microsoft.IO.RecyclableMemoryStream.dll
+C:\Users\sefad\source\repos\project\project\bin\Debug\System.ComponentModel.Annotations.dll
+C:\Users\sefad\source\repos\project\project\bin\Debug\EPPlus.xml
+C:\Users\sefad\source\repos\project\project\bin\Debug\Microsoft.IO.RecyclableMemoryStream.xml
+C:\Users\sefad\source\repos\project\project\obj\Debug\project.csprojAssemblyReference.cache
+C:\Users\sefad\source\repos\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+C:\Users\sefad\source\repos\project\project\obj\Debug\project.csproj.CopyComplete
+C:\Users\sefad\source\repos\project\project\obj\Debug\project.exe
+C:\Users\sefad\source\repos\project\project\obj\Debug\project.pdb
